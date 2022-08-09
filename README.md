@@ -2,7 +2,7 @@
 - 👀 I’m interested in be a data scientist
 - 🌱 I’m currently learning Python 
 - 📫 text me on instagram @lucas.dlima
-- 
+- 🧡 I love programing
 
 <!---
 Srycuse/Srycuse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
